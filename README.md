@@ -2,7 +2,6 @@
 
 A **desktop application** built with **PyQt5** that performs **Arabic Optical Character Recognition (OCR)** from images using **Tesseract OCR**, with features for text extraction, clipboard copying, and speech synthesis.
 
----
 
 ## 🚀 Features
 
@@ -12,7 +11,6 @@ A **desktop application** built with **PyQt5** that performs **Arabic Optical Ch
 - Clean and user-friendly graphical interface.
 - Contrast enhancement for better OCR accuracy.
 
----
 
 ## 📦 Requirements
 
